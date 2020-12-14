@@ -1,0 +1,295 @@
+Month,Borough,Index Price
+2019-06,City of London,97.2
+2019-07,City of London,96.5
+2019-08,City of London,103.8
+2019-09,City of London,103.4
+2019-10,City of London,105.4
+2019-11,City of London,99.1
+2019-12,City of London,94.1
+2020-01,City of London,98.8
+2020-02,City of London,101.8
+2020-03,City of London,106.3
+2020-06,City of London,111.2
+2020-07,City of London,100.3
+2020-08,City of London,101.6
+2020-09,City of London,101.2
+2019-06,Barking & Dagenham,133.5
+2019-07,Barking & Dagenham,135.2
+2019-08,Barking & Dagenham,136.1
+2019-09,Barking & Dagenham,138.5
+2019-10,Barking & Dagenham,138.4
+2019-11,Barking & Dagenham,139.2
+2019-12,Barking & Dagenham,136.9
+2020-01,Barking & Dagenham,137.7
+2020-02,Barking & Dagenham,137.5
+2020-03,Barking & Dagenham,136.9
+2020-06,Barking & Dagenham,136.3
+2020-07,Barking & Dagenham,138.5
+2020-08,Barking & Dagenham,138.8
+2020-09,Barking & Dagenham,137.9
+2019-06,Barnet,111.1
+2019-07,Barnet,111.5
+2019-08,Barnet,114.6
+2019-09,Barnet,114.2
+2019-10,Barnet,113.9
+2019-11,Barnet,113.3
+2019-12,Barnet,112.6
+2020-01,Barnet,113.0
+2020-02,Barnet,111.8
+2020-03,Barnet,113.3
+2020-06,Barnet,112.2
+2020-07,Barnet,112.7
+2020-08,Barnet,113.4
+2020-09,Barnet,116.0
+2019-06,Bexley,129.6
+2019-07,Bexley,129.3
+2019-08,Bexley,128.9
+2019-09,Bexley,127.3
+2019-10,Bexley,127.2
+2019-11,Bexley,127.5
+2019-12,Bexley,128.5
+2020-01,Bexley,128.2
+2020-02,Bexley,129.1
+2020-03,Bexley,129.5
+2020-06,Bexley,130.3
+2020-07,Bexley,131.6
+2020-08,Bexley,133.0
+2020-09,Bexley,131.2
+2019-06,Brent,112.3
+2019-07,Brent,112.0
+2019-08,Brent,115.6
+2019-09,Brent,118.6
+2019-10,Brent,117.0
+2019-11,Brent,102.2
+2019-12,Brent,101.0
+2020-01,Brent,101.1
+2020-02,Brent,111.0
+2020-03,Brent,110.0
+2020-06,Brent,114.3
+2020-07,Brent,113.9
+2020-08,Brent,117.5
+2020-09,Brent,123.5
+2019-06,Bromley,115.3
+2019-07,Bromley,116.5
+2019-08,Bromley,118.6
+2019-09,Bromley,118.3
+2019-10,Bromley,117.8
+2019-11,Bromley,117.0
+2019-12,Bromley,117.7
+2020-01,Bromley,116.8
+2020-02,Bromley,116.9
+2020-03,Bromley,116.0
+2020-06,Bromley,114.4
+2020-07,Bromley,115.6
+2020-08,Bromley,117.9
+2020-09,Bromley,119.4
+2019-06,Camden,113.3
+2019-07,Camden,115.7
+2019-08,Camden,112.1
+2019-09,Camden,108.9
+2019-10,Camden,104.5
+2019-11,Camden,107.2
+2019-12,Camden,104.9
+2020-01,Camden,107.9
+2020-02,Camden,107.1
+2020-03,Camden,110.5
+2020-06,Camden,109.4
+2020-07,Camden,104.9
+2020-08,Camden,107.2
+2020-09,Camden,105.6
+2019-06,Greenwich,122.3
+2019-07,Greenwich,125.3
+2019-08,Greenwich,125.0
+2019-09,Greenwich,127.2
+2019-10,Greenwich,126.5
+2019-11,Greenwich,127.7
+2019-12,Greenwich,125.4
+2020-01,Greenwich,125.4
+2020-02,Greenwich,125.1
+2020-03,Greenwich,124.8
+2020-06,Greenwich,121.7
+2020-07,Greenwich,121.9
+2020-08,Greenwich,123.0
+2020-09,Greenwich,127.9
+2019-06,Hackney,116.4
+2019-07,Hackney,118.4
+2019-08,Hackney,120.9
+2019-09,Hackney,122.1
+2019-10,Hackney,120.8
+2019-11,Hackney,119.3
+2019-12,Hackney,117.8
+2020-01,Hackney,118.7
+2020-02,Hackney,122.4
+2020-03,Hackney,124.5
+2020-06,Hackney,121.4
+2020-07,Hackney,124.5
+2020-08,Hackney,123.6
+2020-09,Hackney,132.7
+2019-06,Hammersmith & Fulham,97.4
+2019-07,Hammersmith & Fulham,99.0
+2019-08,Hammersmith & Fulham,99.6
+2019-09,Hammersmith & Fulham,100.4
+2019-10,Hammersmith & Fulham,98.3
+2019-11,Hammersmith & Fulham,98.3
+2019-12,Hammersmith & Fulham,99.5
+2020-01,Hammersmith & Fulham,99.1
+2020-02,Hammersmith & Fulham,101.2
+2020-03,Hammersmith & Fulham,98.2
+2020-06,Hammersmith & Fulham,92.7
+2020-07,Hammersmith & Fulham,98.4
+2020-08,Hammersmith & Fulham,100.8
+2020-09,Hammersmith & Fulham,106.4
+2019-06,Harrow,114.6
+2019-07,Harrow,114.2
+2019-08,Harrow,115.3
+2019-09,Harrow,116.0
+2019-10,Harrow,116.1
+2019-11,Harrow,115.2
+2019-12,Harrow,114.4
+2020-01,Harrow,114.5
+2020-02,Harrow,115.6
+2020-03,Harrow,115.7
+2020-06,Harrow,113.0
+2020-07,Harrow,115.2
+2020-08,Harrow,117.5
+2020-09,Harrow,117.8
+2019-06,Havering,131.5
+2019-07,Havering,132.4
+2019-08,Havering,132.3
+2019-09,Havering,131.9
+2019-10,Havering,132.2
+2019-11,Havering,131.7
+2019-12,Havering,131.7
+2020-01,Havering,130.3
+2020-02,Havering,131.2
+2020-03,Havering,131.4
+2020-06,Havering,133.8
+2020-07,Havering,135.0
+2020-08,Havering,135.4
+2020-09,Havering,136.0
+2019-06,Hillingdon,119.8
+2019-07,Hillingdon,120.6
+2019-08,Hillingdon,120.2
+2019-09,Hillingdon,122.2
+2019-10,Hillingdon,122.0
+2019-11,Hillingdon,123.3
+2019-12,Hillingdon,122.5
+2020-01,Hillingdon,123.0
+2020-02,Hillingdon,122.6
+2020-03,Hillingdon,124.0
+2020-06,Hillingdon,122.6
+2020-07,Hillingdon,124.3
+2020-08,Hillingdon,124.0
+2020-09,Hillingdon,124.3
+2019-06,Lambeth,114.2
+2019-07,Lambeth,115.6
+2019-08,Lambeth,117.8
+2019-09,Lambeth,117.9
+2019-10,Lambeth,116.9
+2019-11,Lambeth,117.7
+2019-12,Lambeth,118.2
+2020-01,Lambeth,118.8
+2020-02,Lambeth,118.0
+2020-03,Lambeth,117.3
+2020-06,Lambeth,117.8
+2020-07,Lambeth,121.8
+2020-08,Lambeth,122.4
+2020-09,Lambeth,125.3
+2019-06,Lewisham,119.0
+2019-07,Lewisham,120.8
+2019-08,Lewisham,122.5
+2019-09,Lewisham,123.5
+2019-10,Lewisham,123.8
+2019-11,Lewisham,122.2
+2019-12,Lewisham,121.5
+2020-01,Lewisham,119.7
+2020-02,Lewisham,120.7
+2020-03,Lewisham,121.0
+2020-06,Lewisham,125.0
+2020-07,Lewisham,124.4
+2020-08,Lewisham,123.6
+2020-09,Lewisham,127.1
+2019-06,Newham,129.4
+2019-07,Newham,129.1
+2019-08,Newham,130.1
+2019-09,Newham,132.6
+2019-10,Newham,133.0
+2019-11,Newham,130.6
+2019-12,Newham,129.8
+2020-01,Newham,132.0
+2020-02,Newham,135.0
+2020-03,Newham,135.0
+2020-06,Newham,134.0
+2020-07,Newham,135.0
+2020-08,Newham,136.3
+2020-09,Newham,137.6
+2019-06,Redbridge,125.7
+2019-07,Redbridge,127.7
+2019-08,Redbridge,129.6
+2019-09,Redbridge,127.4
+2019-10,Redbridge,126.7
+2019-11,Redbridge,127.3
+2019-12,Redbridge,130.6
+2020-01,Redbridge,129.5
+2020-02,Redbridge,128.5
+2020-03,Redbridge,129.4
+2020-06,Redbridge,127.4
+2020-07,Redbridge,128.4
+2020-08,Redbridge,130.3
+2020-09,Redbridge,132.9
+2019-06,Richmond upon Thames,110.1
+2019-07,Richmond upon Thames,110.9
+2019-08,Richmond upon Thames,110.9
+2019-09,Richmond upon Thames,109.3
+2019-10,Richmond upon Thames,108.5
+2019-11,Richmond upon Thames,109.7
+2019-12,Richmond upon Thames,110.5
+2020-01,Richmond upon Thames,111.8
+2020-02,Richmond upon Thames,111.0
+2020-03,Richmond upon Thames,111.0
+2020-06,Richmond upon Thames,117.6
+2020-07,Richmond upon Thames,117.2
+2020-08,Richmond upon Thames,118.0
+2020-09,Richmond upon Thames,116.3
+2019-06,Sutton,120.9
+2019-07,Sutton,121.5
+2019-08,Sutton,120.0
+2019-09,Sutton,121.3
+2019-10,Sutton,120.3
+2019-11,Sutton,121.9
+2019-12,Sutton,121.1
+2020-01,Sutton,120.8
+2020-02,Sutton,121.3
+2020-03,Sutton,121.7
+2020-06,Sutton,120.7
+2020-07,Sutton,121.1
+2020-08,Sutton,123.4
+2020-09,Sutton,125.6
+2019-06,Wandsworth,103.8
+2019-07,Wandsworth,105.7
+2019-08,Wandsworth,106.9
+2019-09,Wandsworth,109.3
+2019-10,Wandsworth,108.5
+2019-11,Wandsworth,108.6
+2019-12,Wandsworth,109.3
+2020-01,Wandsworth,109.3
+2020-02,Wandsworth,110.2
+2020-03,Wandsworth,110.3
+2020-06,Wandsworth,105.0
+2020-07,Wandsworth,106.8
+2020-08,Wandsworth,110.5
+2020-09,Wandsworth,111.2
+2019-06,Westminster,101.9
+2019-07,Westminster,97.1
+2019-08,Westminster,92.8
+2019-09,Westminster,94.5
+2019-10,Westminster,95.0
+2019-11,Westminster,97.8
+2019-12,Westminster,98.4
+2020-01,Westminster,103.3
+2020-02,Westminster,103.4
+2020-03,Westminster,102.1
+2020-06,Westminster,98.5
+2020-07,Westminster,93.9
+2020-08,Westminster,98.8
+2020-09,Westminster,94.7
